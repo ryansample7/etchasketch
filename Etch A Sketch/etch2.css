@@ -1,0 +1,18 @@
+.board {
+    display: grid;
+    height: 500px;
+    width: 500px;
+}
+
+.buttons {
+    background-color: #00FFF0;
+    border-radius: 12px;
+    border-color: #00FFF0;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    opacity: 0.6;  
+    }
